@@ -47,3 +47,4 @@ class Roll:
     # Método que devuelve el puntaje del roll
     def score(self):
         return self.pins
+#Implementación
